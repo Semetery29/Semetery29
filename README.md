@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Semetery29
-- 👀 I’m interested in ... Software Development & Game Development
-- 🌱 I’m currently taking CS50 - Introduction to Computer Science Course
-- 💞️ I’m looking to collaborate on ... Diffrent Beginneer Project 
-- 📫 How to reach me ... Not Available yet.
+- 👀 I’m interested in ... Web | Software | Game Development
+- 🌱 I’m currently Level 2 Web Development Course ... Publsihed by Programming Hero
+- 💞️ I’m looking to collaborate as a Front End Web Developer
+- 📫 You can reach me at mdazizulhakimsuny@gmail.com
 
 <!---
 Semetery29/Semetery29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
